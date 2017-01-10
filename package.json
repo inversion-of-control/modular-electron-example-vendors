@@ -1,0 +1,19 @@
+{
+  "name": "@inversion-of-control/modular-electron-example-vendors",
+  "version": "0.0.1",
+  "description": "Modular Electron Vendors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inversion-of-control/modular-electron-example-vendors.git"
+  },
+  "author": "John Gardiner <jwegardiner@gmail.com> (https://github.com/johngardiner)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inversion-of-control/modular-electron-example-vendors/issues"
+  },
+  "homepage": "https://github.com/inversion-of-control/modular-electron-example-vendors#readme",
+  "dependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
+  }
+}
